@@ -1,11 +1,11 @@
-# 🛍️ E-Commerce Web Application (Laravel + React)
+#  E-Commerce Web Application (Laravel + React)
 
 A full-stack e-commerce web application built using **Laravel (backend)** and **React (frontend)**.  
 This project demonstrates product listings, shopping cart, authentication, and order management — built from scratch.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - User authentication (login/register)
 - Product listing and filtering by category
@@ -17,7 +17,7 @@ This project demonstrates product listings, shopping cart, authentication, and o
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 **Frontend:** React.js, Axios, Tailwind CSS  
 **Backend:** Laravel, MySQL, Sanctum Auth  
@@ -25,7 +25,7 @@ This project demonstrates product listings, shopping cart, authentication, and o
 
 ---
 
-## ⚙️ Installation Guide
+##  Installation Guide
 
 ### Backend Setup
 ```bash
